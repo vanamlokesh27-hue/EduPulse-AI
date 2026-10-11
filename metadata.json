@@ -1,0 +1,6 @@
+{
+  "name": "EduPulse AI — Student Journey Intelligence Platform",
+  "description": "AI-powered student journey intelligence platform transforming institutional and academic data into early warning alerts, proactive interventions, and predictive student success analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
